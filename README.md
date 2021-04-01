@@ -3,14 +3,25 @@
 <!--
 **1902shubh/1902shubh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Android development
+- 🌱 I’m currently learning Advance Android Development
+- 👯 I’m looking to collaborate on Youtube 
+- 💬 Ask me about Android Development / Tech 
+- 📫 How to reach me: shubhampandey979271@gmail.com
+- ⚡ Fun fact: Youtuber
+
+Let's Connect📌
+
+[Instagram](https://www.instagram.com/1902shubh/)
+
+[LinkedIn](https://www.linkedin.com/in/1902shubh/)
+
+[Youtube](https://www.youtube.com/papayacoders) 
+
+[Website](https://papayacoders.in/)
+
+
+
+![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=1902shubh&show_icons=true)
