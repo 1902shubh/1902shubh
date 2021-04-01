@@ -22,6 +22,7 @@ Let's Connect📌
 
 [Website](https://papayacoders.in/)
 
+[![Github](https://img.shields.io/github/followers/1902shubh?label=Follow&style=social)](https://github.com/1902shubh)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1902shubh&theme=tokyonight)
 
