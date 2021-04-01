@@ -23,5 +23,6 @@ Let's Connect📌
 [Website](https://papayacoders.in/)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1902shubh&theme=tokyonight)
 
-![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=1902shubh&show_icons=true)
+![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=1902shubh&show_icons=true&theme=tokyonight)
