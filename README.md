@@ -11,8 +11,8 @@
 - 🔭 I’m currently working on Android development
 - 🌱 I’m currently learning Advance Android Development
 - 👯 I’m looking to collaborate on Youtube 
-- 💬 Ask me about Android Development / Tech 
-- 📫 How to reach me: shubhampandey979271@gmail.com
+- 💬 Ask me about Android Development / Java / Kotlin 
+- 📫 Reach me: shubhampandey979271@gmail.com
 - ⚡ Fun fact: Youtuber
 
  ## :movie_camera: Recent YouTube Playlist
