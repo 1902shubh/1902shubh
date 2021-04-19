@@ -15,6 +15,17 @@
 - 📫 How to reach me: shubhampandey979271@gmail.com
 - ⚡ Fun fact: Youtuber
 
+ ## :movie_camera: Recent YouTube Playlist
+ - [Android tutorials 2021](https://www.youtube.com/watch?v=y7YINW2mGxw&list=PL6Rs84MkNq7l4Zc1nQWET9-BFSc7Mnwqb)
+ - [WhatsApp Sticker App](https://www.youtube.com/watch?v=dim8m_v1ogM)
+ - [College App with Admin App](https://www.youtube.com/watch?v=Ui__yxgrRwQ&list=PL6Rs84MkNq7kjE71tV3iDQdqO7fspmoNN)
+ - [Wallpaper App with Admob](https://www.youtube.com/watch?v=9m_yrGeWXbE&list=PL6Rs84MkNq7kDI9aKVqJUctHrOvKH3ptc)
+ - [Programming Tips](https://www.youtube.com/watch?v=CsOnqUf37wE&list=PL6Rs84MkNq7mha_nivzq766HLtz4X2W5I)
+ - [Quotes App](https://www.youtube.com/watch?v=v9AayYoJTMk&list=PL6Rs84MkNq7kj-tXn9XrJYnQnVSOojkaL)
+ - [Book App](https://www.youtube.com/watch?v=fxG8wI_yWb8&list=PL6Rs84MkNq7nEhFCy7XfT7XbmA5_KTqeR)
+ - [Firebase Authentication](https://www.youtube.com/watch?v=BsfzDUOx958) <br/>
+ [More Playlist...](https://www.youtube.com/c/PapayaCoders/playlists)
+
 Let's Connect📌
 
 [Instagram](https://www.instagram.com/1902shubh/)
