@@ -23,11 +23,7 @@
 
 ## Connect with Me 🤝🏻
 
-[Instagram](https://www.instagram.com/1902shubh/) [LinkedIn](https://www.linkedin.com/in/1902shubh/)
-
-[Youtube](https://www.youtube.com/papayacoders) 
-
-[Website](https://papayacoders.in/)
+[![Website](https://raw.githubusercontent.com/1902shubh/1902shubh/master/assets/ws.svg)](https://papayacoders.in/) [![Blog](https://raw.githubusercontent.com/1902shubh/1902shubh/master/assets/bl.svg)](https://equicklearning.com/) [![LinkedIn](https://raw.githubusercontent.com/1902shubh/1902shubh/master/assets/li.svg)](https://uk.linkedin.com/in/1902shubh/) [![Twitter](https://raw.githubusercontent.com/1902shubh/1902shubh/master/assets/tw.svg)](https://twitter.com/1902shubh) [![YouTube](https://raw.githubusercontent.com/1902shubh/1902shubh/master/assets/yt.svg)](https://youtube.com/papayacoders) [![GitHub](https://raw.githubusercontent.com/1902shubh/1902shubh/master/assets/gh.svg)](https://github.com/1902shubh) [![Facebook](https://raw.githubusercontent.com/1902shubh/1902shubh/master/assets/fb.svg)](https://www.facebook.com/1902shubh) [![Instagram](https://raw.githubusercontent.com/1902shubh/1902shubh/master/assets/ig.svg)](https://instagram.com/1902shubh)  [![Telegram](https://raw.githubusercontent.com/1902shubh/1902shubh/master/assets/tg.svg)](https://t.me/papaya_coders) [![WhatsApp](https://raw.githubusercontent.com/1902shubh/1902shubh/master/assets/wa.svg)](https://wa.me/message/DS6LXIFOPDGZM1)
 
 [![Shubham's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=1902shubh&theme=tokyonight)](https://git.io/praveenscience)
 
