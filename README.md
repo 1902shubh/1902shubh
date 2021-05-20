@@ -27,6 +27,6 @@
 
 [![Shubham's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=1902shubh&theme=tokyonight)](https://git.io/praveenscience)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1902shubh&theme=tokyonight)
-
-![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=1902shubh&show_icons=true&theme=tokyonight)
+| ![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=1902shubh&show_icons=true&theme=tokyonight) | ![Shubham GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1902shubh&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1902shubh&theme=tokyonight) |
