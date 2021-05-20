@@ -1,12 +1,7 @@
 
 [![Github](https://img.shields.io/github/followers/1902shubh?label=Follow&style=social)](https://github.com/1902shubh)
 
-# Hi there 👋
-
-<!--
-**1902shubh/1902shubh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--->
+# Hi there 👋🏻 I am Shubham Pandey!
 
 - 🔭 I’m currently working on Android development
 - 🌱 I’m currently learning Advance Android Development
@@ -35,6 +30,8 @@ Let's Connect📌
 [Youtube](https://www.youtube.com/papayacoders) 
 
 [Website](https://papayacoders.in/)
+
+[![Shubham's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=1902shubh&theme=tokyonight)](https://git.io/praveenscience)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1902shubh&theme=tokyonight)
 
