@@ -21,11 +21,9 @@
  - [Firebase Authentication](https://www.youtube.com/watch?v=BsfzDUOx958) <br/>
  [More Playlist...](https://www.youtube.com/c/PapayaCoders/playlists)
 
-Let's Connect📌
+## Connect with Me 🤝🏻
 
-[Instagram](https://www.instagram.com/1902shubh/)
-
-[LinkedIn](https://www.linkedin.com/in/1902shubh/)
+[Instagram](https://www.instagram.com/1902shubh/) [LinkedIn](https://www.linkedin.com/in/1902shubh/)
 
 [Youtube](https://www.youtube.com/papayacoders) 
 
