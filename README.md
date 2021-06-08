@@ -1,14 +1,14 @@
 
 [![Github](https://img.shields.io/github/followers/1902shubh?label=Follow&style=social)](https://github.com/1902shubh)
 
-# Hi there 👋🏻 I am Shubham Pandey!
+# Hey Folks 👋🏻 I am Shubham Pandey!
 
-- 🔭 I’m currently working on Android development
-- 🌱 I’m currently learning Advance Android Development
-- 👯 I’m looking to collaborate on Youtube 
-- 💬 Ask me about Android Development / Java / Kotlin 
+- 🔭 I’m currently working on Android development.
+- 🌱 I’m currently learning Advance Android Development.
+- 👯 I’m looking to make more friends.
+- 💬 Ask me about Android Development / Java / Kotlin .
 - 📫 Reach me: shubhampandey979271@gmail.com
-- ⚡ Fun fact: Youtuber
+- ⚡ Fun fact: Writing Code for Errors
 
  ## :movie_camera: Recent YouTube Playlist
  - [Android tutorials 2021](https://www.youtube.com/watch?v=y7YINW2mGxw&list=PL6Rs84MkNq7l4Zc1nQWET9-BFSc7Mnwqb)
