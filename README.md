@@ -3,13 +3,13 @@
 
 
 # Nmste 👋🏻 I am Shubham Pandey!
+<h2 style="color:red"> trying to write bug free code</h2>
 
-- 🔭 I’m currently working on Android development.
-- 🌱 I’m currently learning Advance Android Development.
+- 🔭 Working as Android development.
+- 🌱 Learning Advance Android Development.
 - 👯 I’m looking to make more friends.
-- 💬 Ask me about Android Development / Java / Kotlin .
-- 📫 Reach me: shubhampandey979271@gmail.com
-- ⚡ Fun fact: Writing Code for Errors
+- 💬 Ask about Android Development / Java / Kotlin .
+- 📫 Reach : shubhampandey979271@gmail.com
 
  ## :movie_camera: Recent YouTube Playlist
  - [Android tutorials 2021](https://www.youtube.com/watch?v=y7YINW2mGxw&list=PL6Rs84MkNq7l4Zc1nQWET9-BFSc7Mnwqb)
