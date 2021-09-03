@@ -2,7 +2,7 @@
 [![Github](https://img.shields.io/github/followers/1902shubh?label=Follow&style=social)](https://github.com/1902shubh)
 
 
-# Hey Folks 👋🏻 I am Shubham Pandey!
+# Nmste 👋🏻 I am Shubham Pandey!
 
 - 🔭 I’m currently working on Android development.
 - 🌱 I’m currently learning Advance Android Development.
