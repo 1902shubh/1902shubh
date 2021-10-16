@@ -2,6 +2,8 @@
 [![Github](https://img.shields.io/github/followers/1902shubh?label=Follow&style=social)](https://github.com/1902shubh)
 
 
+<img src="https://miro.medium.com/max/3200/0*fdcgLkFi3GdmNpWY">
+
 # Nmste 👋🏻 I am Shubham Pandey!
 <h2 style="color:red"> trying to write bug free code</h2>
 
