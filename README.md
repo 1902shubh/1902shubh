@@ -13,8 +13,8 @@
 
 <h2 style="color:red"> Trying to write bug free code</h2>
 
-- 🔭 Working as Android development.
-- 🌱 Learning Advance Android Development.
+- 🔭 App/Web Developer.
+- 🌱 Going forward to explore Blockchain. 
 - 👯 I’m looking to make more friends.
 - 💬 Ask about Android Development / Java / Kotlin .
 - 📫 Reach : pro.1902shubh@gmail.com
