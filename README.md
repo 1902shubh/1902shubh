@@ -1,23 +1,19 @@
 ![Profile views](https://gpvc.arturio.dev/1902shubh)
 [![Github](https://img.shields.io/github/followers/1902shubh?label=Follow&style=social)](https://github.com/1902shubh)
 
+<div align="center">
 
-<img src="https://miro.medium.com/max/3200/0*fdcgLkFi3GdmNpWY">
+<img src="https://user-images.githubusercontent.com/46995327/169817619-92e89b97-c102-484f-8f98-c93ccf0dd0f4.gif">
 
-<h3 align="center">
-	<a href="https://papayacoders.in/">Hi, I'm Shubham Pandey !</a>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3> 
-
----
-
-<h2 style="color:red"> Trying to write bug free code</h2>
-
-- 🔭 App/Web Developer.
-- 🌱 Going forward to explore Blockchain. 
-- 👯 I’m looking to make more friends.
-- 💬 Ask about Android Development / Java / Kotlin .
-- 📫 Reach : pro.1902shubh@gmail.com
+### Heya, my name is Shubham Pandey.
+  I'm a **software engineer**, and **open-source** contributor.
+  <br />I work with [Papaya Coders](https://github.com/papayacoders) to create awesome content for developers.
+  <br />I'm a **App/Web Developer** <img src="https://user-images.githubusercontent.com/41123719/164335488-1eff3a46-e648-43a3-9e3f-7bed66090ae4.gif" height="18" /> , ask me anything about them!
+  
+  I'm highly interested in Machine Learning & AI. <br/> Currently learning more about Blockchain, and ML tools such as TensorFlow & PyTorch.
+  
+</div>
+	
 ---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=1902shubh&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
