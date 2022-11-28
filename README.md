@@ -10,7 +10,7 @@
   <br />I work with [Papaya Coders](https://github.com/papayacoders) to create awesome content for developers.
   <br />I'm a **App/Web Developer** <img src="https://user-images.githubusercontent.com/41123719/164335488-1eff3a46-e648-43a3-9e3f-7bed66090ae4.gif" height="18" /> , ask me anything about them!
   
-  I'm highly interested in Machine Learning & AI. <br/> Currently learning more about Blockchain, and ML tools such as TensorFlow & PyTorch.
+  I'm highly interested in Machine Learning & AI. <br/> Currently learning about IOS Development.
   
 </div>
 	
