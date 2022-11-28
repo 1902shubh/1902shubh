@@ -5,7 +5,7 @@
 
 <img src="https://user-images.githubusercontent.com/46995327/169817619-92e89b97-c102-484f-8f98-c93ccf0dd0f4.gif">
 
-### Heya, my name is Shubham Pandey.
+### Hey, my name is Shubham Pandey.
   I'm a **software engineer**, and **open-source** contributor.
   <br />I work with [Papaya Coders](https://github.com/papayacoders) to create awesome content for developers.
   <br />I'm a **App/Web Developer** <img src="https://user-images.githubusercontent.com/41123719/164335488-1eff3a46-e648-43a3-9e3f-7bed66090ae4.gif" height="18" /> , ask me anything about them!
