@@ -1,4 +1,5 @@
-![Profile views](https://gpvc.arturio.dev/1902shubh)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=1902shubh&label=Profile%20views&color=0e75b6&style=flat" alt="1902shubh" /> </p>
+
 [![Github](https://img.shields.io/github/followers/1902shubh?label=Follow&style=social)](https://github.com/1902shubh)
 
 <div align="center">
